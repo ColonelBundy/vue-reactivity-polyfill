@@ -7,7 +7,7 @@
     "module": "esNext",
     "moduleResolution": "node",
     "allowJs": false,
-    "strict": true,
+    "strict": false,
     "downlevelIteration": true,
     "noUnusedLocals": true,
     "experimentalDecorators": true,
